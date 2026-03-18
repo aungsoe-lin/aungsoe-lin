@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi I am Aung Soe Lin
 
-<!--
-**aungsoe-lin/aungsoe-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Fullstack Developer from Myanmar 🇲🇲
+Passionate about building beautiful web apps.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, TypeScript, HTML, CSS
+**Frameworks:** React, Next.js, MUI CSS,
+**Tools:** Git, VS Code
+**Database:** PostgreSQL, Prisma
+
+## 🔭 Current Projects
+
+- 🚀 Building an e-commerce platform with Next.js
+- 📱 Learning React Native for mobile development
+
+## 🌱 Currently Learning
+
+- TypeScript Advanced Patterns
+- System Design
+- Tailwind CSS 
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/aungsoe-lin
+- Email: salaiaungsoe384@gmail.com
+- Portfolio: aungsoelin.com
