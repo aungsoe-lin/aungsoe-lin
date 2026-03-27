@@ -33,3 +33,5 @@ Passionate about building beautiful web apps.
 - LinkedIn: www.linkedin.com/in/aungsoe-lin
 - Email: salaiaungsoe384@gmail.com
 - Portfolio: aungsoelin.com
+
+- GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
