@@ -57,7 +57,8 @@ Next.js, TypeScript, and PostgreSQL.
 
 ## 📸 Screenshots
 
-![Homepage](./screenshots/homepage.png)
+![Homepage](<img width="1917" height="821" alt="Screenshot 2026-03-27 224552" src="https://github.com/user-attachments/assets/24636399-a7d8-40e5-9e9d-f3d1e9499448" />)
+
 ![Product Page](./screenshots/product.png)
 
 ## 🛠 Tech Stack
@@ -68,3 +69,28 @@ Next.js, TypeScript, and PostgreSQL.
 | Backend  | Next.js, server action |
 | Database | PostgreSQL, Prisma |
 | Deploy   | Vercel |
+
+
+## ✨ Features
+
+- 🔐 User authentication (login/register)
+- 🛍 Product browsing with search & filter
+- 🛒 Shopping cart with quantity management
+- 💳 Stripe payment integration
+- 📱 Fully responsive design
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- PostgreSQL
+- Stripe API key
+
+### Installation
+
+    git clone https://github.com/aungsoe-lin/foodx-res.git
+    cd foodx-res
+    npm install
+    cp .env.example .env  # Add your API keys
+    npm run dev
+
