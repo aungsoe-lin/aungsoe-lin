@@ -59,7 +59,7 @@ Next.js, TypeScript, and PostgreSQL.
 
 ![image alt](https://github.com/aungsoe-lin/aungsoe-lin/blob/5a9ad82113631bb1e4942b50bda7c3542d1b776a/Screenshot%202026-03-27%20224552.png)
 
-![image alt]([./screenshots/product.png](https://github.com/aungsoe-lin/aungsoe-lin/blob/80303511c638e641a75fcf7e73032273cca4159b/Screenshot%202026-03-27%20230526.png))
+![image alt]((https://github.com/aungsoe-lin/aungsoe-lin/blob/80303511c638e641a75fcf7e73032273cca4159b/Screenshot%202026-03-27%20230526.png)
 ![image alt](https://github.com/aungsoe-lin/aungsoe-lin/blob/6ed70d0e7cebd38d36fd31d2479f9aeabaec572a/Screenshot%202026-03-27%20230547.png)
 
 ## 🛠 Tech Stack
