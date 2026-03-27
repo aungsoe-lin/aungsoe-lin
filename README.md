@@ -45,7 +45,7 @@ and confrim with their orders.
 Admin can control the user's orders. Admin can change and inform to the users 
 to panding, cooking and complete. 
 
-🔗 **Live Demo:**[https://foodx-res.vercel.app/]
+🔗 **Live Demo:** https://foodx-res.vercel.app/
 
 
 # 🛒 E-Commerce Platform
