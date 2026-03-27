@@ -57,7 +57,7 @@ Next.js, TypeScript, and PostgreSQL.
 
 ## 📸 Screenshots
 
-![Homepage](<img width="1917" height="821" alt="Screenshot 2026-03-27 224552" src="https://github.com/user-attachments/assets/24636399-a7d8-40e5-9e9d-f3d1e9499448" />)
+![image alt](https://github.com/aungsoe-lin/aungsoe-lin/blob/5a9ad82113631bb1e4942b50bda7c3542d1b776a/Screenshot%202026-03-27%20224552.png)
 
 ![Product Page](./screenshots/product.png)
 
