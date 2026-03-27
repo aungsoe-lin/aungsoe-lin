@@ -34,4 +34,12 @@ Passionate about building beautiful web apps.
 - Email: salaiaungsoe384@gmail.com
 - Portfolio: aungsoelin.com
 
-[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+# 🛒 Qr-code Food Ordering Platform
+
+A full-stack Qr-code Food order application built with
+Next.js, TypeScript, and PostgreSQL.
+
+Users can order foods, add to cart,
+and confrim with their orders.
+
+🔗 **Live Demo:** [https://myshop.vercel.app](https://foodx-res.vercel.app/)
