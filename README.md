@@ -42,4 +42,29 @@ Next.js, TypeScript, and PostgreSQL.
 Users can order foods, add to cart,
 and confrim with their orders.
 
-🔗 **Live Demo:** [https://myshop.vercel.app](https://foodx-res.vercel.app/)
+Admin can control the user's orders. Admin can change and inform to the users 
+to panding, cooking and complete. 
+
+🔗 **Live Demo:**[https://foodx-res.vercel.app/]
+
+
+# 🛒 E-Commerce Platform
+
+A full-stack e-commerce application built with
+Next.js, TypeScript, and PostgreSQL.
+
+🔗 **Live Demo:** https://myshop.vercel.app
+
+## 📸 Screenshots
+
+![Homepage](./screenshots/homepage.png)
+![Product Page](./screenshots/product.png)
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+| -------- | ---------- |
+| Frontend | Next.js, MUI CSS |
+| Backend  | Next.js, server action |
+| Database | PostgreSQL, Prisma |
+| Deploy   | Vercel |
