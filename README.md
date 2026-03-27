@@ -34,4 +34,4 @@ Passionate about building beautiful web apps.
 - Email: salaiaungsoe384@gmail.com
 - Portfolio: aungsoelin.com
 
-- GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+[React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
