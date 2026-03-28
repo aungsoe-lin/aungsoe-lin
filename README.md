@@ -48,13 +48,6 @@ to panding, cooking and complete.
 🔗 **Live Demo:** https://foodx-res.vercel.app/
 
 
-# 🛒 E-Commerce Platform
-
-A full-stack e-commerce application built with
-Next.js, TypeScript, and PostgreSQL.
-
-🔗 **Live Demo:** https://myshop.vercel.app
-
 ## 📸 Screenshots
 
 ![image alt](https://github.com/aungsoe-lin/aungsoe-lin/blob/a6040ed0825aad53c0779394e73c1b8bc53b3d81/Beige%20and%20White%20Minimalist%20Photo%20Collage%20Instagram%20Post.png)
@@ -74,15 +67,13 @@ Next.js, TypeScript, and PostgreSQL.
 - 🔐 User authentication (login/register)
 - 🛍 Product browsing with search & filter
 - 🛒 Shopping cart with quantity management
-- 💳 Stripe payment integration
 - 📱 Fully responsive design
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+
+- Node.js App Router
 - PostgreSQL
-- Stripe API key
 
 ### Installation
 
