@@ -32,7 +32,7 @@ Passionate about building beautiful web apps.
 
 - LinkedIn: www.linkedin.com/in/aungsoe-lin
 - Email: salaiaungsoe384@gmail.com
-- Portfolio: aungsoelin.com
+- Portfolio: aungsoelin.vercel.app
 
 # 🛒 Qr-code Food Ordering Platform
 
