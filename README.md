@@ -32,7 +32,7 @@ Passionate about building beautiful web apps.
 
 - LinkedIn: www.linkedin.com/in/aungsoe-lin
 - Email: salaiaungsoe384@gmail.com
-- Portfolio: aungsoelin.vercel.app
+- Portfolio: https://www.aungsoelin.org/
 
 # 🛒 Qr-code Food Ordering Platform
 
@@ -72,8 +72,10 @@ to panding, cooking and complete.
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js App Router
+- Next.js App Router
 - PostgreSQL
+- Zod validate
+- NexthAut
 
 ### Installation
 
